@@ -1,0 +1,16 @@
+[
+    {
+        "id": "317A2959-1271-4882-A364-76A014279C6C",
+        "title": "some title",
+        "order": 0,
+        "completed": false,
+        "url": "https://localhost:8080/todos/317A2959-1271-4882-A364-76A014279C6C"
+    },
+    {
+        "id": "0EF31467-F480-4992-A068-4030615D1DF2",
+        "title": "some title",
+        "order": 1,
+        "completed": false,
+        "url": "https://localhost:8080/todos/0EF31467-F480-4992-A068-4030615D1DF2"
+    }
+]
